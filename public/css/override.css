@@ -8,7 +8,7 @@ h1 {
     width: 100%;
 }
 
-#introduction {
+/* #introduction {
     font-size: 30px;
     padding-top: 40px;
     padding-left: 100px;
@@ -20,13 +20,17 @@ h1 {
     text-align: justify;
 }
 
+*/
 #project_container {
-    position: absolute;
-    margin-left: 100px;
-    margin-right: 100px;
+    width: 90%;
+    margin: 10px auto;
+    position: relative;
 }
 
+
+
 .projects  {
+    position: relative;
     width: 300px;
     float: left;
     margin-top: 20px;
