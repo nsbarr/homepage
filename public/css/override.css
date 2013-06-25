@@ -20,6 +20,10 @@ h1 {
 }
 
 */
+
+#body{
+    min-width: 400px;
+}
 #project_container {
     width: 1200px;
     margin: 0 auto;
@@ -73,12 +77,5 @@ only screen and (max-device-width : 799px){
 only screen and (max-device-width : 599px){
     #project_container {
         width: 400px;
-    }
-}
- 
-@media only screen and (max-width : 399px),
-only screen and (max-device-width : 399px){
-    #project_container {
-        width: 200px;
     }
 }
