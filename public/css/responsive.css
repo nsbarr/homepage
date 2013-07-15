@@ -8,7 +8,7 @@
   }
   #mobile_only {
       display: block;
-      font-size: 4em;
+      font-size: 300px;
       margin-left: 20px;
       margin-top: 20px;
   }
@@ -28,17 +28,14 @@
       }
       #mobile_only {
           display: block;
-            font-size: 4em;
+            font-size: 300px;
             margin-left: 20px;
             margin-top: 20px;
                   }
       #ipad_only {
         display:none;
       }
-       p {
-            font-size: 5vw
-        }
-}
+  }
 
 /* iPhone 4 and older (portrait), most Androids */
 @media only screen and (max-device-width: 320px) {
@@ -47,15 +44,12 @@
       }
       #mobile_only {
           display: block;
-            font-size: 4em;
+            font-size: 300px;
             margin-left: 20px;
             margin-top: 20px;
                   }
       #ipad_only {
         display:none;
-      }
-      p {
-          font-size: 5vw
       }
 }
 
