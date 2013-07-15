@@ -27,8 +27,11 @@
         display:none;
       }
       #mobile_only {
-          display: inline;
-      }
+          display: block;
+            font-size: 4em;
+            margin-left: 20px;
+            margin-top: 20px;
+                  }
       #ipad_only {
         display:none;
       }
@@ -43,8 +46,11 @@
         display:none;
       }
       #mobile_only {
-          display: inline;
-      }
+          display: block;
+            font-size: 4em;
+            margin-left: 20px;
+            margin-top: 20px;
+                  }
       #ipad_only {
         display:none;
       }
