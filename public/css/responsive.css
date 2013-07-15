@@ -1,0 +1,69 @@
+/*Media Queries*/
+
+
+/* iPhone 5 and newer (landscape) + Androids */
+@media all and (max-width: 568px), only screen and (min-device-width: 640px) and (max-device-width: 1136px) and (-webkit-min-device-pixel-ratio: 2) {
+  #desktop_only {
+    display:none;
+  }
+  #mobile_only {
+      display: inline;
+  }
+  #ipad_only {
+    display:none;
+  }
+}
+
+/* iPhone 4 and older (landscape), most Androids */
+@media only screen and (max-device-width: 480px) {
+    #desktop_only {
+        display:none;
+      }
+      #mobile_only {
+          display: inline;
+      }
+      #ipad_only {
+        display:none;
+      }
+}
+
+/* iPhone 4 and older (portrait), most Androids */
+@media only screen and (max-device-width: 320px) {
+    #desktop_only {
+        display:none;
+      }
+      #mobile_only {
+          display: inline;
+      }
+      #ipad_only {
+        display:none;
+      }
+}
+
+
+@media only screen and (device-width: 768px) {
+  /* For general iPad layouts */
+  #desktop_only {
+      display:none;
+    }
+    #mobile_only {
+        display: none;
+    }
+    #ipad_only {
+      display:inline;
+    }
+}
+
+@media all and (min-width: 568px) and (min-device-width: 769px) {
+    /* For desktops */
+    #desktop_only {
+        display:inline;
+      }
+      #mobile_only {
+          display: none;
+      }
+      #ipad_only {
+        display:none;
+      }
+}
+
