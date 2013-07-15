@@ -7,11 +7,13 @@
     display:none;
   }
   #mobile_only {
-      display: inline;
+      display: block;
       font-size: 10vw;
+      margin-left: 20px;
+      margin-top: 20px;
   }
-  #mobile_only p{
-      margin: 0 auto;  
+  #mobile_only p {
+
   }
   #ipad_only {
     display:none;
