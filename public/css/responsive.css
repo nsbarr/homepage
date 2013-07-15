@@ -8,8 +8,10 @@
   }
   #mobile_only {
       display: inline;
-      font-size: 5vw;
-      margin: 0 auto;
+      font-size: 10vw;
+  }
+  #mobile_only p{
+      margin: 0 auto;  
   }
   #ipad_only {
     display:none;
