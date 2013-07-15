@@ -8,13 +8,13 @@
   }
   #mobile_only {
       display: inline;
+      font-size: 5vw;
+      margin: 0 auto;
   }
   #ipad_only {
     display:none;
   }
-   p {
-        font-size: 5vw
-    }
+
 }
 
 /* iPhone 4 and older (landscape), most Androids */
