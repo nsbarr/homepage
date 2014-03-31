@@ -1,0 +1,19 @@
+body {
+	color:rgb(63,42,24);
+    background-color:rgb(245,239,220);
+}
+
+f.entry {
+    width: 80%;
+    max-width:800px;
+ 
+}
+
+.entry h1 {
+
+}
+.entry p{
+    border-left: 4px solid black;
+    padding-left: 10px;
+    font-family: "Lora",Georgia,"Times New Roman",Times,serif;
+}
