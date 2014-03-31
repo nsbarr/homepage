@@ -67,7 +67,7 @@ use Rack::Static,
    }
    end
 
-   map "/bernard" do
+   map "/bernhard" do
      run lambda { |env|
      [
        200, 
