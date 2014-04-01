@@ -24,6 +24,7 @@ body {
 }
 
 .bernheads {
-	width: 30%;
+	width: 80%;
+	max-width:200px;
 	height: auto;
 }
