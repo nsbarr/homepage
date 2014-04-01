@@ -37,11 +37,9 @@ body {
 }
 
 .introduction p{
-	width: 90%;
-    max-width:800px;
     font-family: "Lora",Georgia,"Times New Roman",Times,serif;
     font-style: italic;
-    font-size:26px;
+    font-size:18px;
     font-weight: 100;
 
 
