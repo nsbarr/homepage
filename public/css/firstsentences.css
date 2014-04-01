@@ -5,7 +5,7 @@ body {
 
 .entry {
     width: 90%;
-    max-width:800px;
+    max-width:600px;
     padding-bottom: 20px;
  
 }
@@ -33,7 +33,7 @@ body {
 
 .introduction {
 	width: 90%;
-    max-width:800px;
+    max-width:600px;
 }
 
 .introduction p{
@@ -41,7 +41,7 @@ body {
     font-style: italic;
     font-size:18px;
     font-weight: 100;
-    text-align: center;
+    text-align: justify;
 
 
 }
