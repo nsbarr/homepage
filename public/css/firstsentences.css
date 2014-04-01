@@ -4,7 +4,7 @@ body {
 }
 
 .entry {
-    width: 80%;
+    width: 90%;
     max-width:800px;
  
 }
@@ -19,4 +19,5 @@ body {
     font-family: "Lora",Georgia,"Times New Roman",Times,serif;
     font-size: 18px;
     line-height: 28px;
+    text-align: justify;
 }
