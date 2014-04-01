@@ -12,6 +12,8 @@ body {
 
 .entry h1 {
 	font-family: Verdana, Helvetica, Arial, Times, sans-serif;
+	font-size: 26px;
+	font-weight: 500;
 
 }
 .entry p{
