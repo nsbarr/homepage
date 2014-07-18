@@ -133,3 +133,17 @@ use Rack::Static,
      ]
    }
    end
+
+   map "/ever" do
+     run lambda { |env|
+     [
+       200, 
+       {
+         'Content-Type'  => 'text/html', 
+         'Cache-Control' => 'public, max-age=86400' 
+       },
+       File.open('public/pages/403pages/ever.html',
+       File::RDONLY)
+     ]
+   }
+   end
