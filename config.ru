@@ -67,6 +67,19 @@ use Rack::Static,
    }
    end
 
+   map "/403" do
+    run lambda { |env|
+    [
+       200,
+       {
+         'Content-Type' => 'text/html',
+         'Cache-Control' => 'public, max-age=86400'
+       },
+       File.open('public/pages/403.html', File::RDONLY)
+       ]
+     }
+     end
+
    map "/bernhard" do
      run lambda { |env|
      [
