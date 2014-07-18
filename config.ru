@@ -156,7 +156,7 @@ use Rack::Static,
          'Content-Type'  => 'text/html', 
          'Cache-Control' => 'public, max-age=86400' 
        },
-       File.open('public/pages/403pages/prisoner.html',
+       File.open('public/pages/403pages/prisoner.html.erb',
        File::RDONLY)
      ]
    }
