@@ -29,11 +29,11 @@ b {
 	border-radius: 6px;
 }
 
-nav, li {
+.social-list {
 	display:inline;
 }
 
-li {
+.social-list li {
 	margin:10px;
 }
 
