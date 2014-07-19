@@ -26,3 +26,11 @@ a {
 b {
 	font-weight: normal;
 }
+
+@media (max-width : 480px){
+	article{
+		float:none;
+		width:100%;
+	}
+
+}
