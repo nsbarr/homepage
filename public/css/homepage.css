@@ -27,11 +27,12 @@ b {
 	font-weight: normal;
 }
 
-@media only screen and (max-width: 600px) {
-	article {
+@media only screen and (max-width: 480px) {
+	body {
 		float:none;
 		width:100%;
 		margin-left: 10px;
+		margin-top: 4px;
 	}
 	p {
 		color: red;
