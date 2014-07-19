@@ -2,6 +2,10 @@ use Rack::Static,
   :urls => ["/images", "/js", "/css"],
   :root => "public"
 
+config.assets.compile = true
+
+
+
   map "/" do
     run lambda { |env|
     [
