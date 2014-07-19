@@ -27,10 +27,13 @@ b {
 	font-weight: normal;
 }
 
-@media (max-width : 480px){
-	article{
+@media only screen and (max-device-width: 600px) {
+	article {
 		float:none;
 		width:100%;
+	}
+	p {
+		color: red;
 	}
 
 }
