@@ -24,8 +24,16 @@ b {
 	font-weight: normal;
 }
 
-social-icon {
+.social-icon {
 	width:32px;
+}
+
+nav, li {
+	display:inline;
+}
+
+li {
+	margin:10px;
 }
 
 @media only screen and (max-width: 480px) {
