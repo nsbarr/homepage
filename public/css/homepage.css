@@ -26,6 +26,7 @@ b {
 
 .social-icon {
 	width:32px;
+	border-radius: 6px;
 }
 
 nav, li {
@@ -34,6 +35,11 @@ nav, li {
 
 li {
 	margin:10px;
+}
+
+ul {
+	padding-left: 0px;
+	text-align:center;
 }
 
 @media only screen and (max-width: 480px) {
