@@ -16,15 +16,16 @@ h3 {
 	margin-top: 32px;
 }
 
-p {
-}
-
 a {
 	color: rgba(0,0,0,0.8);
 	}	
 
 b {
 	font-weight: normal;
+}
+
+social-icon {
+	width:32px;
 }
 
 @media only screen and (max-width: 480px) {
@@ -38,9 +39,12 @@ b {
 		margin-left: 10px;
 	}
 
+	h1 {
+		margin-top: 0;
+	}
+
 	p, a, li {
 		line-height:140%;
-		color: red;
 	}
 
 }
