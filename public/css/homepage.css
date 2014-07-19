@@ -1,5 +1,5 @@
 body {
-	width:950px;
+	width:650px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 40px;
@@ -8,4 +8,12 @@ body {
 article {
 	font-family: Verdana;
 	color: rgba(0,0,0,0.8);
+}
+
+h1 {
+	margin-bottom: 0;
+}
+
+p {
+	margin-top: 6px;
 }
