@@ -1,5 +1,7 @@
 li {
 	float:left;
+	border: 2px solid grey;
+	padding: 10px;
 }
 
 img {
