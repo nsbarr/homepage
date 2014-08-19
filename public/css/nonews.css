@@ -24,3 +24,8 @@ p {
 a {
 	color: inherit;
 }
+
+.footer {
+	color: grey;
+	text-align: center;
+}
