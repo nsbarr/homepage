@@ -1,22 +1,13 @@
-li {
-	float:left;
-	border: 2px solid grey;
-	padding: 10px;
-}
-
 img {
 	max-width: 200px;
 	margin: 0 auto;
+	display:block;
 }
 
 h1 {
 	font: 48px/48px 'Raleway', sans-serif;
 	font-variant: small-caps;
 	font-weight: 600;
-}
-
-h2 {
-	margin: 0 auto;
 }
 
 .container {
