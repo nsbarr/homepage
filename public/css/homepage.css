@@ -66,7 +66,14 @@ ul.social-list {
 	font-size: 12px;
 	font-color: gray;
 	margin:4px;
+	margin-left:0;
 }
+
+.tiny-plug a {
+	color:gray;
+	text-decoration: none;
+}
+
 .tiny-form {
 	width:60%;
 	height:2em;
