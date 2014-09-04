@@ -56,9 +56,10 @@ ul.social-list {
 
 .tinyButton:hover {
 	color:rgba(0,0,0,0.8);
-	border:2px rgba(0,0,0,0.8);
 	background-color:white;
-	cursor:hand;
+	border-color:rgba(0,0,0,0.8);
+	border-width: 2px;
+	cursor:pointer;
 }
 
 .form-line {
