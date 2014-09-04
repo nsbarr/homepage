@@ -43,7 +43,17 @@ ul.social-list {
 	text-align:center;
 }
 
-.tinyButton
+.tinyButton {
+	background-color: rgba(0,0,0,0.8);
+	color: white;
+	display: inline-block;
+	line-height: 2em;
+	font-family: Verdana;
+}
+
+#tlemail {
+	float: left;
+}
 
 @media only screen and (max-width: 480px) {
 	body {
