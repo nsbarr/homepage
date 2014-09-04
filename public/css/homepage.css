@@ -54,6 +54,10 @@ ul.social-list {
 	border-radius:6px;
 }
 
+.form-line {
+	margin-bottom:0px;
+}
+
 #tlemail {
 	float: left;
 }
@@ -67,6 +71,9 @@ ul.social-list {
 	width:60%;
 	height:2em;
 	margin-top:3px;
+	font-family:Verdana;
+	font-size:inherit;
+
 }
 
 @media only screen and (max-width: 480px) {
