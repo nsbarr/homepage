@@ -47,17 +47,26 @@ ul.social-list {
 	background-color: rgba(0,0,0,0.8);
 	color: white;
 	display: inline-block;
-	line-height: 2em;
+	line-height: 2.2em;
 	font-family: Verdana;
+	font-size: inherit;
+	border:none;
+	border-radius:6px;
 }
 
 #tlemail {
 	float: left;
 }
 
+.tiny-plug {
+	font-size: 12px;
+	font-color: gray;
+	margin:4px;
+}
 .tiny-form {
-	width:100%;
+	width:60%;
 	height:2em;
+	margin-top:3px;
 }
 
 @media only screen and (max-width: 480px) {
