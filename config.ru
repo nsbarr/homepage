@@ -191,6 +191,20 @@ use Rack::Static,
    }
    end
 
+   map "/proceed" do
+     run lambda { |env|
+     [
+       200, 
+       {
+         'Content-Type'  => 'text/html', 
+         'Cache-Control' => 'public, max-age=86400' 
+       },
+       File.open('public/pages/proceed.html',
+       File::RDONLY)
+     ]
+   }
+   end
+
 
    map "/2" do
      run lambda { |env|
