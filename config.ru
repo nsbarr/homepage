@@ -218,6 +218,7 @@ use Rack::Static,
        File::RDONLY)
      ]
    }
+   end
 
    map "/instructions" do
    run lambda { |env|
