@@ -246,3 +246,17 @@ use Rack::Static,
      ]
    }
    end
+
+   map "/prisoner_privacy" do
+   run lambda { |env|
+     [
+       200, 
+       {
+         'Content-Type'  => 'text/html', 
+         'Cache-Control' => 'public, max-age=86400' 
+       },
+       File.open('public/pages/pk_privacy.html',
+       File::RDONLY)
+     ]
+   }
+   end
