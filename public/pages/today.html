@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Today: A Text Adventure In Space</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/responsive.css" rel="stylesheet" media="screen" />
+  </head>
+  <body>
+<p><i>Today: A Text Adventure in Space</i> is a gamelike interface for textual expression. As of October 2014 it is available on iPhone and iPad <a href="www.appstore.com/todayatextadventureinspace">here</a>.</p>
+
+<p>In <i>Today</i>, the player/composer navigates a sentence through space, colliding into words to continue the sentence. The game ends when the sentence terminates in a period.</p>
+
+<p>Words are generated using Markov chains, a simple algorithm used in natural language processing. Markov chains predict the next word based on the previous word; for example, given the word "I," a Markov chain will provide a set of possible words along with their probability of occuring after "I".</p>
+
+<blockquote>fdist("I") = ["am":0.5, "was":0.2, "did": 0.1, "love": 0.05, ...]</blockquote>
+
+<p>These probabilities are typically based on a large source text, such as the <a href="http://en.wikipedia.org/wiki/Brown_Corpus">Brown Corpus</a>.</p>
+
+<p>A fully automated program will generate sentences based on frequency distributions. In <i>Today</i>, it is the responsibility of the player/composer to pick the next word. So while the universe of possible words is constrained by the source text, the path of the sentence is created by the player. In this way, <i>Today: A Text Adventure in Space</i> creates a new way for humans and computers to jointly compose text.</p>
+
+<p>This is the poem generated in the video above. The source text is taken from a chapter of Melville's <i>Pierre: or, the Ambiguities</i> and an original work.</p>
+
+<p>Yesterday was 
+<br>		long and 
+<br>the 
+<br>universal 
+<br>sincerity 
+<br>		of his, 
+<br>	Pierre was done, 
+<br>the love 
+<br>	we touched 
+<br>		long.
+</p>
+</body>
+</html>
