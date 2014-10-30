@@ -11,11 +11,11 @@
 
 <p>In <i>Today</i>, the player/composer navigates a sentence through space, colliding into words to continue the sentence. The game ends when the sentence terminates in a period.</p>
 
-<iframe src="//player.vimeo.com/video/110507715" width="500" height="888" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/110507715">Today: A Text Adventure in Space</a> from <a href="http://vimeo.com/user1735883">Nick Barr</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="//player.vimeo.com/video/110507715" width="500" height="888" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<p>Words are generated using Markov chains, a simple algorithm used in natural language processing. Markov chains predict the next word based on the previous word; for example, given the word "I," a Markov chain will provide a set of possible words along with their probability of occuring after "I".</p>
+<p>Words are generated using Markov chains, a simple algorithm used in natural language processing. Markov chains predict the next word based on the previous word; for example, given the word "I," a Markov chain will provide a set of possible words along with their probability of occuring after "I":</p>
 
-<i>fdist("I") = ["am":0.5, "was":0.2, "did": 0.1, "love": 0.05, ...]</i>
+<i>fdist("I") = ["am":0.5, "was":0.2, "did": 0.2, "love": 0.1]</i>
 
 <p>These probabilities are typically based on a large source text, such as the <a href="http://en.wikipedia.org/wiki/Brown_Corpus">Brown Corpus</a>.</p>
 
