@@ -259,7 +259,9 @@ use Rack::Static,
        File::RDONLY)
      ]
    }
-      map "/today" do
+   end
+   
+   map "/today" do
    run lambda { |env|
      [
        200, 
