@@ -23,4 +23,6 @@ p {
 	background-color: white;
 	padding: 5% 10% 10% 10%;
 	border-bottom: 5px solid #1cb9D6;
+	max-width: 800px;
+	margin: 0 auto;
 }
