@@ -1,5 +1,5 @@
 body {
-	width: 90%;
+	min-width: 530px;
 	background-color: #baecf8;
 }
 
@@ -21,4 +21,6 @@ p {
 
 #content-wrapper {
 	background-color: white;
+	padding: 5% 10% 10% 10%;
+	border-bottom: 5px solid #1cb9D6;
 }
