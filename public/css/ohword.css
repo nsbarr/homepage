@@ -1,5 +1,6 @@
 body {
 	width: 90%;
+	background-color: #baecf8;
 }
 
 h1 {
@@ -16,4 +17,8 @@ p {
 	font-size: 30px;
 	text-color: #c3aaa5;
 	text-align: center;
+}
+
+#content-wrapper {
+	background-color: white;
 }
