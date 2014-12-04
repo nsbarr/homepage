@@ -247,7 +247,7 @@ use Rack::Static,
    }
    end
 
-   map "/prisoner_privacy" do
+   map "/masterpass_privacy" do
    run lambda { |env|
      [
        200, 
