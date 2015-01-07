@@ -1,0 +1,1681 @@
+commit 2316ed959385f62c16fba06d282d52038aa40e07
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Jan 7 12:49:42 2015 -0500
+
+    gottagofast
+
+commit b1031da37a78701d57cc23c1670dc7b3b5f79820
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Jan 7 12:47:54 2015 -0500
+
+    gottagofast
+
+commit 3debd42c25b796e9e6276adb5bd3fefa8294b145
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Jan 7 12:43:52 2015 -0500
+
+    gottagofast
+
+commit 002c45f71eec3cdb25c398af34ba2770d91aca89
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Jan 7 12:41:12 2015 -0500
+
+    gottagofast
+
+commit 1e728e893ba2a2756fed48639d0282ad6aa6fe0c
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Jan 7 12:38:44 2015 -0500
+
+    gottagofast
+
+commit 1edca127616321e1cc7bd8e0fac5e4e5623ca06d
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Jan 7 12:26:45 2015 -0500
+
+    gottagofast
+
+commit c983a28ba4f205d8a0850738602a8bbfb47921a4
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Thu Dec 4 15:05:39 2014 -0500
+
+    gottagofast
+
+commit d3d4e793d60787080b9beecce74ff7abe48a9eb2
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Mon Nov 24 10:45:09 2014 -0500
+
+    gottagofast
+
+commit 31f77e0580048515af1706e97812830b849103af
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Mon Nov 17 17:41:52 2014 -0500
+
+    gottagofast
+
+commit 1e21f7be998cb9dc71e9cd97ac99afce385533d4
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Mon Nov 17 16:53:53 2014 -0500
+
+    gottagofast
+
+commit b9d034b5a0d964360d7976b4e864547f110d8cee
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Mon Nov 17 16:42:31 2014 -0500
+
+    gottagofast
+
+commit b049a04c54c48dedd56825b36a292d75e0e7796d
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Nov 12 23:26:58 2014 -0500
+
+    gottagofast
+
+commit c156246d2f0ede02bdbb15ead5b00d3ef3d57058
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Nov 12 23:24:54 2014 -0500
+
+    gottagofast
+
+commit 92ba5e58a81e0c50932cdd3be0905a0f1deb37d8
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Nov 12 23:17:44 2014 -0500
+
+    gottagofast
+
+commit be0017ba2d6091f345044c017df350c12a2ddfee
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Nov 12 23:17:19 2014 -0500
+
+    gottagofast
+
+commit 398fe5996198308bf4d21760e2015062f35d32c3
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Nov 12 22:42:49 2014 -0500
+
+    gottagofast
+
+commit f164c79caaed47e26c7024138e383f7b0301e6d0
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Nov 12 22:39:41 2014 -0500
+
+    gottagofast
+
+commit cacb777c0c29db0d66c72d8e2e5b03acad69fa32
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Nov 12 22:37:47 2014 -0500
+
+    gottagofast
+
+commit 5b12b5752a40ef819374c27a1255bf12d6f641fc
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Nov 12 22:36:23 2014 -0500
+
+    gottagofast
+
+commit 27e9113f66539661071e631b1365bed83135cc67
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Nov 12 22:33:24 2014 -0500
+
+    gottagofast
+
+commit bbcc9d513df8b8090f2aac62f741153c397f66c6
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Wed Nov 12 22:28:33 2014 -0500
+
+    gottagofast
+
+commit 798524ccef80fd746b155f79ff269ea5f29c7294
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 17:05:08 2014 -0500
+
+    gottagofast
+
+commit 636e448553dcb31db37c83a577059bcc09997791
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 17:03:10 2014 -0500
+
+    gottagofast
+
+commit 957004b40208abe12a1721fe151eb9bde60880cd
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 16:54:23 2014 -0500
+
+    gottagofast
+
+commit f7ee9fbb68571890fab9bb50eb74ae3b37b94f92
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 15:27:30 2014 -0500
+
+    gottagofast
+
+commit 30b53eacf0cbe3d37d334648c7adcee23c5bad61
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 15:26:47 2014 -0500
+
+    gottagofast
+
+commit ee8c7ebc864f9c82e377623b705b562dba33f77e
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 13:14:16 2014 -0500
+
+    gottagofast
+
+commit 034b26b2dd710a908fd9464c7de41f9d1ab24015
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 13:11:26 2014 -0500
+
+    gottagofast
+
+commit 52ffc8b50fb24d6535bac500cc5ba5f902160331
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 13:08:42 2014 -0500
+
+    gottagofast
+
+commit 2f5aa2083930ec2f2c58400bdae6bf6ba7da0815
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 12:36:15 2014 -0500
+
+    gottagofast
+
+commit 1c591cf6ba441abb256b9373d07cdbc5274f97f1
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 11:37:34 2014 -0500
+
+    gottagofast
+
+commit cdfbd32288876edcd3b4ee2ad6b092f6cdf02aef
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 11:27:01 2014 -0500
+
+    gottagofast
+
+commit 0ab60c7218fa2de1d80d3c9ffdab6a9bbefb1c39
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 11:01:00 2014 -0500
+
+    gottagofast
+
+commit 10d4317f395a9b956a25ee557bc0f7d9c4e02834
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 10:59:41 2014 -0500
+
+    gottagofast
+
+commit 6f0db4398a1ad2d3c622f0acead580cc5eaf784b
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 10:49:32 2014 -0500
+
+    gottagofast
+
+commit 077e355ec2fbbe612e4546001e17e52d6ad187ce
+Merge: 67b1a85 b843216
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 10:46:59 2014 -0500
+
+    oh
+
+commit 67b1a8565b34856f0ef2afbf33d00dbc355114ab
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 10:45:38 2014 -0500
+
+    gottagofast
+
+commit cf8d38040eacf930f70f2ba3b7ab447e02ef22e2
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 11 10:45:14 2014 -0500
+
+    gottagofast
+
+commit b843216e74281859185a267d6f857c2fe7ef3b17
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Thu Nov 6 12:26:28 2014 -0500
+
+    Create README.md
+
+commit 9a983a7b771a9542babcf33ab382013ec2920887
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 4 10:51:09 2014 -0500
+
+    gottagofast
+
+commit 105808cb7e3ade3bce343218da6f5636af5390df
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 4 10:02:17 2014 -0500
+
+    gottagofast
+
+commit ace70c95401ab6253c80615ec7448936ca8ffc1c
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 4 10:00:12 2014 -0500
+
+    gottagofast
+
+commit a5cbd8345e8e430e391697224aa3b060fc6fda36
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 4 09:58:49 2014 -0500
+
+    gottagofast
+
+commit 084513cf39945c513c6132ed26787efc99623146
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 4 09:57:36 2014 -0500
+
+    gottagofast
+
+commit 5f793c6f37c56371be1790c9c5aaf923722baca6
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 4 09:56:19 2014 -0500
+
+    gottagofast
+
+commit f03bee9ef899abdb9c13c839a2d8a04a22f5bfec
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Tue Nov 4 09:45:19 2014 -0500
+
+    gottagofast
+
+commit 53228e6b2bef72d2770e31d63111d9d2ad501f4e
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Thu Oct 30 16:29:43 2014 -0400
+
+    gottagofast
+
+commit f1eae1ae7590948e157708933406a72f32e1d8c5
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Thu Oct 30 16:26:01 2014 -0400
+
+    gottagofast
+
+commit 6a54bc9139babc727fb402e5b53ab712dbce0a82
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Thu Oct 30 16:18:09 2014 -0400
+
+    gottagofast
+
+commit f8a5304250e538a4b233e46446f5fcf359d604ee
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Thu Oct 30 16:15:26 2014 -0400
+
+    gottagofast
+
+commit 3fe2324cf81dbc30d02ed4a64aa215d722b0f68e
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Thu Oct 30 16:13:02 2014 -0400
+
+    gottagofast
+
+commit ca4942aa6509b79c596096d81b6992a726c81c8a
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Thu Oct 30 16:11:08 2014 -0400
+
+    gottagofast
+
+commit da3f2f493406a6eeb2c8d4c8d63d37bba451fb17
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Thu Oct 30 16:08:37 2014 -0400
+
+    gottagofast
+
+commit b84be80e27eb817811784441a8ea09106a5a1e37
+Author: nsbarr <nsbarr@gmail.com>
+Date:   Thu Oct 30 16:02:10 2014 -0400
+
+    gottagofast
+
+commit c922af0937d333c87809cbce46753f1396099ccf
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Mon Oct 13 10:23:06 2014 -0400
+
+    gottagofast
+
+commit f28087944e1975b7b7963595bae9f40db9d373a7
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Oct 2 15:23:07 2014 -0400
+
+    gottagofast
+
+commit 26840de0aaacac8153b2852f8d67d1afe2e2779e
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Sep 30 20:55:10 2014 -0400
+
+    gottagofast
+
+commit d78afa557d195f81462feb79bf97ad21e9cce2e4
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Sep 30 20:27:32 2014 -0400
+
+    gottagofast
+
+commit b9a589f19f76cdbd153fb3db0fed9636af12840e
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Sep 30 12:06:48 2014 -0400
+
+    gottagofast
+
+commit 59b78d779a42b47d5c3420ab50baea507bb1d2d7
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Sep 30 12:05:35 2014 -0400
+
+    gottagofast
+
+commit 18d353074adbdf44936577ea95d82dd1e2ac526b
+Author: nick barr <nick@nicks-air.home>
+Date:   Sun Sep 28 19:32:46 2014 -0400
+
+    gottagofast
+
+commit ac391c6f9b329a3cc55440e86ed752910ec92110
+Author: nick barr <nick@nicks-air.home>
+Date:   Sun Sep 28 19:30:57 2014 -0400
+
+    gottagofast
+
+commit a06514a52484b995f01723dca3c9d1b2a1e9468e
+Author: nick barr <nick@nicks-air.home>
+Date:   Sun Sep 28 19:29:17 2014 -0400
+
+    gottagofast
+
+commit 8e7debf13db721df87e813a1d3bc128908da2c74
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sun Sep 28 11:58:50 2014 -0400
+
+    gottagofast
+
+commit fa1b91dc292111a15c8df409fe43f8424b3d0b84
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sun Sep 28 11:54:48 2014 -0400
+
+    gottagofast
+
+commit 5d37e9313b61c571dd20cc3bbcf2e5ef3b214956
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sun Sep 28 11:53:27 2014 -0400
+
+    gottagofast
+
+commit 380e55d16d9b7dfead182595d08525200dcbdb06
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sun Sep 28 11:44:51 2014 -0400
+
+    huh
+
+commit 16224163e8364882f125754d0c24a29c0cab65c0
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Wed Sep 10 11:14:55 2014 -0400
+
+    gottagofast
+
+commit df96bf108120ce4a8b378eba1c7d4d62474cb31b
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Wed Sep 10 11:13:52 2014 -0400
+
+    gottagofast
+
+commit 8a0b48a3f52807fed0f494d5569239b37c1cd715
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Sep 9 22:13:10 2014 -0400
+
+    gottagofast
+
+commit 51980b7a7f0f9fdd2df58a52f6a406902c0fb0e3
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 17:17:29 2014 -0400
+
+    gottagofast
+
+commit aeb048cf03a5224f84278d0396a1aa257821ca81
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 17:14:07 2014 -0400
+
+    gottagofast
+
+commit c920541128b6fb01f95db73163648c26b95c000e
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 17:12:38 2014 -0400
+
+    gottagofast
+
+commit 6804605863f2622dc80b47b7d97fd20efa789a88
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 17:09:48 2014 -0400
+
+    gottagofast
+
+commit 959d36ed9ae6f54c7bd17871bc2d803aa0c0bf53
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 17:06:29 2014 -0400
+
+    gottagofast
+
+commit 541dc2fdadfa058a40ca2cb40c6cd7567145a5f9
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 16:58:44 2014 -0400
+
+    gottagofast
+
+commit e3222a5df706376872bafce6e0900ea35bcccc59
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 16:53:57 2014 -0400
+
+    gottagofast
+
+commit badbed4420c68f0afe20567dd7f81b10e43cca8b
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 16:45:32 2014 -0400
+
+    gottagofast
+
+commit e302d6054c50e19f1a5912cc0cb1b497bbfb6ab5
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 16:42:42 2014 -0400
+
+    gottagofast
+
+commit 816ffefb21ae3cd1624474433154e2fcd61effd9
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 16:40:33 2014 -0400
+
+    gottagofast
+
+commit cd65fa3e46f1542d12b3bdd03769913d91c5c832
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 16:37:19 2014 -0400
+
+    gottagofast
+
+commit 8d52aa106b5fc0407b7678d26113c7aa7d674204
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 15:37:48 2014 -0400
+
+    gottagofast
+
+commit 8e3a1ce5cd1a6cd13dab371fe29ce336b1dcabfa
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 15:23:49 2014 -0400
+
+    gottagofast
+
+commit 70be33283a2c0d8f243b407ad22ada2015d5e75f
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 15:21:36 2014 -0400
+
+    gottagofast
+
+commit 0757d74a51ed6e891fa6c10bab1c520ea12e8907
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 15:13:18 2014 -0400
+
+    gottagofast
+
+commit 004d20274d906c79c8f6c9b65052ee6d00773689
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Sep 4 15:06:41 2014 -0400
+
+    gottagofast
+
+commit c24dc81add139676b3997905541c4127d35dc24e
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 26 08:58:29 2014 -0400
+
+    gottagofast
+
+commit d9ea2dfbbe6adc7bc8fb4f90c6357f85fe7d21d1
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Wed Aug 20 11:34:44 2014 -0400
+
+    gottagofast
+
+commit 6b8b209e483a588bd842f02e75547a66497cea8f
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 19 15:18:33 2014 -0400
+
+    gottagofast
+
+commit ed52287a9b94951e0721da13e4676adcab58762a
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 19 15:17:25 2014 -0400
+
+    gottagofast
+
+commit af5543823f1f4ab9db9ccc6d38c5af4aade30ee9
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 19 15:16:01 2014 -0400
+
+    gottagofast
+
+commit a1d37b2e4ae71429fa9d3e1b64f1c165b8264a43
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 19 12:18:35 2014 -0400
+
+    gottagofast
+
+commit 274ea657e974012701097b468ab59f1b94a517b5
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 19 12:15:30 2014 -0400
+
+    gottagofast
+
+commit 156aeda06206498cec4e84fe8b25220e85779da4
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 19 12:08:57 2014 -0400
+
+    gottagofast
+
+commit df4fabb1bbd9ea847068953fe22a8b92c280789c
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 19 12:05:26 2014 -0400
+
+    gottagofast
+
+commit 9c9d5d58a802840600ae7858edca67951f172102
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 19 11:56:46 2014 -0400
+
+    gottagofast
+
+commit 283a34efb2cb3511961fad42830722855cb6f7dc
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 19 11:49:02 2014 -0400
+
+    gottagofast
+
+commit 2f442fc0eef4129f88f7f9fc5a15fa104cdf0abe
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 19 11:40:54 2014 -0400
+
+    gottagofast
+
+commit 7bc4d477a25d7463ab995c782870ae361da7f67f
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 19 11:35:58 2014 -0400
+
+    gottagofast
+
+commit aa00727d4de5f82f13c2b5d41d700ccfc47e4cb7
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 19 11:22:13 2014 -0400
+
+    gottagofast
+
+commit 3d78553d5637af46965c41f46c7f7925488673bc
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 19 11:18:33 2014 -0400
+
+    gottagofast
+
+commit 40ca5940d4aabd716db424cffec16fa6b3955f8e
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 19 11:14:57 2014 -0400
+
+    gottagofast
+
+commit 498e91c58aa20a6d583c9b86ba40cfc4352a2d1f
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 5 14:23:04 2014 -0400
+
+    gottagofast
+
+commit 1e85284badaa9c3122c1043ad38069f04ed73b2f
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 5 13:41:47 2014 -0400
+
+    gottagofast
+
+commit 2f34479dfe12cbc4bc9b4fdcd674e45f8c2f20bf
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 5 13:39:07 2014 -0400
+
+    gottagofast
+
+commit d9b9e8cc49e27badb6b04ea4cde3efd0d7cf08ed
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 5 13:34:06 2014 -0400
+
+    gottagofast
+
+commit 39735255077e6111e427fe36d0e62fd966040d07
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 5 13:28:35 2014 -0400
+
+    gottagofast
+
+commit 634b93ddaf09ee4d2de3d56cd9e6ee2eb6e7b27e
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Tue Aug 5 12:40:03 2014 -0400
+
+    gottagofast
+
+commit 27a31ef9a560d3c73a573cb7c7a2a35296c24b68
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Mon Jul 21 12:14:12 2014 -0400
+
+    gottagofast
+
+commit 688d0f9793169e4a1e2684dc2b52cd5df0198bdf
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Mon Jul 21 12:12:50 2014 -0400
+
+    gottagofast
+
+commit ea79b68de0c7cdcca61b2b7dd7ba88caa2f5f7fb
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Mon Jul 21 12:10:50 2014 -0400
+
+    gottagofast
+
+commit 73ef621e7a518cbf095483aaeb3e2c2dcaa28346
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Mon Jul 21 11:00:08 2014 -0400
+
+    gottagofast
+
+commit 1a7f0ea94d9d005cd8dc9c140c2bf63d79a79b29
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Mon Jul 21 10:58:35 2014 -0400
+
+    gottagofast
+
+commit 03bc8c21592da470a150c451fe52d1938d787d5a
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 15:17:28 2014 -0400
+
+    gottagofast
+
+commit 6e8db893c9cf3c07956bb7daa36b9a3ccbfb9217
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 15:16:24 2014 -0400
+
+    gottagofast
+
+commit f029ec457e5744bfcc248b2f182344207e479ebe
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 15:14:03 2014 -0400
+
+    gottagofast
+
+commit 07df9413ecc7f54d24faee2d22d4df59f06ba14e
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 15:07:43 2014 -0400
+
+    gottagofast
+
+commit afec42030780cda35bead548769817383c42be08
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 15:03:24 2014 -0400
+
+    gottagofast
+
+commit 06bc276674ba2e61a21445b72fe47841d86c1015
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 14:58:12 2014 -0400
+
+    gottagofast
+
+commit d364e659288786f755d28741a9c5b9ad4dbb6c41
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 14:53:34 2014 -0400
+
+    gottagofast
+
+commit 1e24b47480079cae5d02ce006f00328c0097d14c
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 14:52:03 2014 -0400
+
+    gottagofast
+
+commit c99cfaef16ce89d5c35e263ca0c70ce37e243ac6
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 14:50:51 2014 -0400
+
+    foo
+
+commit 9d1e530f7f63cf846ed48a49d9bf93f909559265
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 14:45:18 2014 -0400
+
+    foo
+
+commit 6dddde035c01955cf73b77974f8a7d2edb4c4182
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 14:41:01 2014 -0400
+
+    foo
+
+commit c776299c4d29403591721d823739bfec9b2af959
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 14:33:20 2014 -0400
+
+    gottagofast
+
+commit b642e6168602fdad60fac0fed57d61c8e743d1a4
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 14:27:12 2014 -0400
+
+    gottagofast
+
+commit ee879167f7f901543adfc54289ef2328feb148fe
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 14:14:02 2014 -0400
+
+    gottagofast
+
+commit 52e1d9ea8a6416d671afa51b388f9b21e941de5f
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 14:07:58 2014 -0400
+
+    gottagofast
+
+commit db5151c724c168271decae215232eb3de542c79d
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 13:57:23 2014 -0400
+
+    gottagofast
+
+commit 2039c761ccf4b6b938cc2977ba3a33fcec625a01
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 13:36:09 2014 -0400
+
+    gottagofast
+
+commit fee5e1711aca621735b79d898ec795c2886867df
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 13:28:47 2014 -0400
+
+    gottagofast
+
+commit 029436857d5fa76d516e9f98d2f48e8721f08735
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 13:25:57 2014 -0400
+
+    gottagofast
+
+commit bff88f7e8fbf760f4da91fdc60ca7cbc9f5a0e6f
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 13:21:19 2014 -0400
+
+    gottagofast
+
+commit 7e054f38e63bc0bd7b7a177f38a01ac9d7ec7893
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 13:17:58 2014 -0400
+
+    gottagofast
+
+commit a1d446e3ed215c867ee1694de8251ec74e82617c
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 13:15:21 2014 -0400
+
+    gottagofast
+
+commit 4b9145b3ef6be433d8c0aa1e592ce603cdc55fce
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Sat Jul 19 13:07:05 2014 -0400
+
+    gottagofast
+
+commit 244616d9ae5ece51fa54a0ebfefbc55a0ffb97e7
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 21:09:23 2014 -0400
+
+    gottagofast
+
+commit d84952bccea610cd0ee340421f11ff37bd96e150
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 21:07:35 2014 -0400
+
+    speedy
+
+commit ccdd6fd9a163dcacf290ceb69d8f622bc298c00d
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 21:04:54 2014 -0400
+
+    speedy
+
+commit 3efcaf92530e51a6f8b3c1c8d0ca3a27f78f7767
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 20:53:11 2014 -0400
+
+    speedy
+
+commit 5954b758629c0b97edb9190b6c79f04520d033e9
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 20:49:19 2014 -0400
+
+    speedy
+
+commit 48f03d1735a48deee8121f9bce5ea176a8429281
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 20:46:46 2014 -0400
+
+    speedy
+
+commit d7c1cbfff831bdc0f88d746abef1ec0caba2321e
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 20:37:33 2014 -0400
+
+    speedy
+
+commit c52a607cb4277fd7cb61b6a10693b1e55917c434
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 20:19:09 2014 -0400
+
+    speedy
+
+commit a11ca89e27e1e04432ad7977c82fd39ad4a6bf92
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 20:15:37 2014 -0400
+
+    foo
+
+commit 84116eada8e87635fd175c564bedd86245d9d6a4
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 20:09:20 2014 -0400
+
+    foo
+
+commit 7099d592ad56f31af4c3d6ac38c81c7465e1508d
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 16:07:53 2014 -0400
+
+    foo
+    :
+
+commit 7b14e33d8ad11644fdee67bde094f75635620882
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 16:06:04 2014 -0400
+
+    foo
+
+commit 9e783f77d3199f8d815588a339632e0885a1933a
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 15:58:07 2014 -0400
+
+    foo
+
+commit 9a46e71a72a9d341d3fe8ca9c56a7ea1b85d1bdb
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 15:55:32 2014 -0400
+
+    foo
+
+commit 1df6a55c61f6e58d6a6f36a34b5ddaded600e16e
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 15:52:20 2014 -0400
+
+    foo
+
+commit 3b14ebabfff9ef2ba3ce1b5fec0bdd900c8bbf45
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 15:08:36 2014 -0400
+
+    stuff
+
+commit b377264e5327278506a7b6dd71764606bbd7cb46
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 14:54:39 2014 -0400
+
+    foo
+
+commit 2e53438e23763b08ff66057015e8f2ef3a825dd6
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 14:49:38 2014 -0400
+
+    foo
+
+commit e00630a773c210202cfb9dfafcc9087794b161cd
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 14:27:13 2014 -0400
+
+    foo
+
+commit 5c0414bf6171afd213a20419078260d9e498b1a7
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 14:24:44 2014 -0400
+
+    foo
+
+commit a375bec6165047bbdc8ebee77c3087f7fa55f1d3
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 14:22:53 2014 -0400
+
+    foo
+
+commit fac6f3acefa877b1fba5747c5cd967b865c6fdad
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 14:00:35 2014 -0400
+
+    foo
+
+commit f079016531f3b7abbc48206e2012ff4b34135a7c
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 13:55:41 2014 -0400
+
+    foo
+
+commit 18e45e191a711d83a023423ce28d80a23aa47965
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 13:25:46 2014 -0400
+
+    foo
+
+commit ae134613ee8c1c2ff4a99025f2f22740df9ab9fb
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 13:24:40 2014 -0400
+
+    foo
+
+commit 3c8e1c08d52677a06b41cb7f74cfe7e97f899259
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 13:23:00 2014 -0400
+
+    foo
+
+commit 3985d012d06de8753a255dc2b7015517a0fb92ea
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 13:20:55 2014 -0400
+
+    foo
+
+commit f2f6ee7d29fd59275e80ba93b91196b5db718789
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 13:18:34 2014 -0400
+
+    foo
+
+commit 459ce6bfc7324812be4ab89ee71c74263dcb34e6
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 13:14:56 2014 -0400
+
+    foo
+
+commit e481b7cdf64b10d2fcc98f599f204a881f9c7bf8
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 13:13:05 2014 -0400
+
+    foo
+
+commit c8430368943310307bb8bfc77da3d047bddaa18c
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 13:11:51 2014 -0400
+
+    foo
+
+commit 1409cca7b334652531be52b0d61f2dffdd03acf0
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 12:47:08 2014 -0400
+
+    foo
+
+commit a4e7f19c4c2b5582158c3c0736aaa0c0770bbfc0
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 12:45:29 2014 -0400
+
+    stuff
+
+commit cd5198105b693b71d91f51db865ee5872bc02b4b
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 12:23:57 2014 -0400
+
+    added 403
+
+commit 05dddeab7111f2744af6335d0321c30cde5e5758
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 18 12:21:21 2014 -0400
+
+    added 403
+
+commit 44e1d1b428fc6d82bff4bb8f9b3a4e9b5ca53da5
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Fri Jul 11 11:28:52 2014 -0400
+
+    more projects
+
+commit a58aa1d1d7cec28e71f86b6f5956f5445516998d
+Author: nick barr <nick@nicks-MacBook-Air.local>
+Date:   Thu Jul 10 11:36:55 2014 -0400
+
+    test
+
+commit 9d9405e22bc4a8d04a430ab9faa0c96b7c518410
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Fri May 23 15:43:10 2014 -0400
+
+    added books
+
+commit 4d0d8c4aa59114074d72f6d038d7968de7f63f85
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Fri Apr 11 14:32:48 2014 -0400
+
+    foo
+
+commit 9cffae3c401b187c5d361d4b139fae2588116a74
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Apr 8 19:20:19 2014 -0400
+
+    foo
+
+commit 31a22a4671044901ce59d8d2dd1496bfb150f4fb
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Apr 8 18:28:00 2014 -0400
+
+    foo
+
+commit eaba632ca4b3c9dc7efdfdc824b33a27ca8a12df
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Apr 8 18:25:37 2014 -0400
+
+    foo
+
+commit a9f86a2248bc697d905858fb2677329ad3d3f195
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Apr 8 18:24:19 2014 -0400
+
+    foo
+
+commit 0b1b0635dd725c8d4b4fe21b2a5056c682ccee0d
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Apr 8 18:11:24 2014 -0400
+
+    foo
+
+commit ae6df4bca32ea943c134e223717522ff96122b05
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Apr 8 18:03:22 2014 -0400
+
+    gf
+
+commit fdcad36f3869f050557498402dbd69d27cc1547b
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Apr 8 14:35:04 2014 -0400
+
+    i read a book
+
+commit 47d0ecb9af0be976e72739e11e4d5f87cca08689
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Wed Apr 2 18:12:06 2014 -0400
+
+    typo
+
+commit 369e57b8422040afe242b37c69ca424edbae7263
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 21:12:13 2014 -0400
+
+    foo
+
+commit d2daccf46426852504c0fdd14431ee4e1ff22cb3
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 21:06:40 2014 -0400
+
+    foo
+
+commit 537db7edc6f0137790fa6e3af23c8e8fc5e54350
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 21:05:20 2014 -0400
+
+    foo
+
+commit 2d6851a0a2ec0210888d771a36ad8af30cce1edb
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 21:02:33 2014 -0400
+
+    foo
+
+commit 0dd5e9d156143b35e1ee12ce6a7c0092532f5887
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 21:00:32 2014 -0400
+
+    foo
+
+commit eb9d40a60dedff7517a4c47cece6c24603ab236a
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 20:59:09 2014 -0400
+
+    foo
+
+commit 1523f0c5750d04d596a2d3261f9f729c8523d494
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 20:55:52 2014 -0400
+
+    foo
+
+commit 9754d102d4c1cbc6778801966c8abe3379046d67
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 20:50:43 2014 -0400
+
+    foo
+
+commit 46190862cb4c8f2c96f30b960632c1ddc264cbf4
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 20:44:58 2014 -0400
+
+    foo
+
+commit 06d0ad96978a72a9a1b35804bca804a13233f1ff
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 20:39:28 2014 -0400
+
+    foo
+
+commit 28d2ec5b3354bb1b2d036a42487751ad53c35cbe
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 20:33:10 2014 -0400
+
+    foo
+
+commit 4efd842d0e84a9f8d0957ba8aee04a0fbfaa6bc9
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 20:30:51 2014 -0400
+
+    foo
+
+commit 360445c7f37d1d4914212677f0d51d48157bb44b
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 20:28:54 2014 -0400
+
+    hng
+
+commit adb4463cbb721e4f72c067268a3910fe1d4f906a
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 20:26:18 2014 -0400
+
+    hng
+
+commit 42020ab09e59588722c1a0d0f8797186a5a5892a
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 20:25:21 2014 -0400
+
+    hng
+
+commit 2a775d629035e03afacbda302dfc45d19d7a097e
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 20:06:56 2014 -0400
+
+    hng
+
+commit a712c13ca21b7c5d2eeeb1ecb8b5bb21d013277b
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 20:02:43 2014 -0400
+
+    hng
+
+commit c3ea9d3f7b9fea26fb567f758db5ae9a0d8bc23a
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 19:55:10 2014 -0400
+
+    hng
+
+commit e24f5e1be7434385fb2afab5d0cf1900c73ff903
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 19:47:22 2014 -0400
+
+    hng
+
+commit c10bafe699191695dd6e768e03d13a5fc7a6a0b2
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 19:46:01 2014 -0400
+
+    hng
+
+commit d74246b6b2472a31e0b994567f275940b0cfb115
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 19:43:08 2014 -0400
+
+    hng
+
+commit f8a248994dd36d378d8cbc81de3205f86ce1d94a
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 19:42:11 2014 -0400
+
+    hng
+
+commit 7db71366875ae418cb511b52e743aa8e70ccca0f
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 19:39:52 2014 -0400
+
+    hng
+
+commit 2f04b50ae26012507d2c6f56d3c9369d20bd2c79
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 19:37:56 2014 -0400
+
+    hng
+
+commit 41c368576d9f7137acdba781eeed64fff0ca52fb
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 19:22:55 2014 -0400
+
+    foo
+
+commit 56a217d0f8994ecfddc01772dd401914b30b5c9e
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 19:17:35 2014 -0400
+
+    foo
+
+commit 453bc1acfdd125cb029adcb17107e91f815ebb5b
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 19:15:25 2014 -0400
+
+    foo
+
+commit 581ed63b5854d4993f6013369530e2f916e8bb26
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 19:13:08 2014 -0400
+
+    bernhard
+
+commit 60b9cb6cd1fecd3650f0e997ddb5ada38a5d260a
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Mar 31 18:24:10 2014 -0400
+
+    alpha and correction
+
+commit 748673a736e2553d201b8f110954644f3feec540
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jan 14 13:32:15 2014 -0500
+
+    hng
+
+commit aa0840fde790e72f05d76a3cc162ff1b733276e3
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jan 14 13:29:39 2014 -0500
+
+    hng
+
+commit de5459c6be930c2dfc528562de644f718c6eef5e
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jan 14 13:13:33 2014 -0500
+
+    yueah
+
+commit 0467150bebbae864882b67203b6be5ee6f3a999b
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jan 14 13:11:40 2014 -0500
+
+    yueah
+
+commit 8e57c5d2d9196ec641e0474142e9b5f7cc35daef
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jan 14 13:08:07 2014 -0500
+
+    yueah
+
+commit f9c95621393177f0f098cf54f44f6bb321403231
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Jan 6 17:47:48 2014 -0500
+
+    mo books
+
+commit 5b60ea6dd75da7bac61a0bb5488737e90dfd1927
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Jan 6 13:25:10 2014 -0500
+
+    mo books
+
+commit e578f676105edc7db48547b5fb8aadeeccdffdb6
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Dec 16 17:09:05 2013 -0500
+
+    anna
+
+commit 9d95827635d157b7c42ea2e5d5ea8e62549a3fb5
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Nov 26 16:23:51 2013 -0500
+
+    books
+
+commit dd0388d373ab27c814e295fd73d1f00fe85973b7
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Nov 11 14:05:02 2013 -0500
+
+    stuff
+
+commit 517b69b1cdfb061b47b33a735ca173841aacc797
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Nov 11 13:12:36 2013 -0500
+
+    stuff
+
+commit 7b858aeab2a97fa3d9b759e1370e249ecf527a46
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Thu Oct 17 13:02:12 2013 -0400
+
+    new entry
+
+commit 12b2e230e0c5ceccc75c319c4db7c2d20040b50c
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sat Aug 31 14:15:12 2013 -0400
+
+    poems.io
+
+commit 86507c4817f4b6f77c99e6362c13bc940b67e588
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Jul 15 13:57:20 2013 -0400
+
+    foo
+
+commit 2b687ff31837ccf024980374653055ae99529506
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Mon Jul 15 13:54:35 2013 -0400
+
+    foo
+
+commit b26fec2c0694c8d8ac936f2c80e8649d286bcd5a
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 22:09:15 2013 -0400
+
+    foo
+
+commit 3d28ba07a7299b5e45f090d2214f75eba43e8fdf
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 22:07:49 2013 -0400
+
+    foo
+
+commit 19f82caa43bf596412139eddf0d1e01aa168baa3
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 22:05:02 2013 -0400
+
+    foo
+
+commit d6981890381090dc2e73d84acca1123b9139270d
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 22:01:45 2013 -0400
+
+    foo
+
+commit 072ccc3bf0483d0454987ca8a4f080c1b7e55a46
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 22:00:31 2013 -0400
+
+    foo
+
+commit 90aad53697b14c06d4d916be3176506a267b89c1
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 21:54:10 2013 -0400
+
+    foo
+
+commit f9af969a2b9f1dc9e50d6ea8054c2e8b8963ef14
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 21:50:40 2013 -0400
+
+    foo
+
+commit 0784e0fffa54e591bb9d55f807d46bdf924eeb28
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 21:47:34 2013 -0400
+
+    foo
+
+commit 04a42c93e10ea3ca20e1002241d895348c84df7e
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 21:32:17 2013 -0400
+
+    foo
+
+commit b1ef90c949c3c7f214540f258cba2121fc76476a
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 21:30:51 2013 -0400
+
+    foo
+
+commit c9c5025231882726979135a4bb7f6b4345f87045
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 17:59:44 2013 -0400
+
+    hel
+
+commit f59b8baa6cced656b6749d217a8fb0a70b7fe7c4
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 17:56:18 2013 -0400
+
+    hel
+
+commit 1661840a28ecd5de2c55c26adfdad86c3bd2608a
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 17:54:33 2013 -0400
+
+    hel
+
+commit 5aa857c8a98ecf91e7477ed680b8614cd3446d9a
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 17:48:21 2013 -0400
+
+    hel
+
+commit e564af649d31e5e4fa10d19e9f236904ef21fc43
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 17:44:33 2013 -0400
+
+    foo
+
+commit 37c07b015df8bec67e2f2e42f209385f2fd6d9d7
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 17:38:19 2013 -0400
+
+    foo
+
+commit 6f5e32a9ed9415be488ccd2cc234a395b82e21cf
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 17:06:51 2013 -0400
+
+    foo
+
+commit bedee02ffb3ba87b2f810782d16ec4e535c5e8d6
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 16:55:45 2013 -0400
+
+    foo
+
+commit 413fb0ed6a0a44704edcf4ab0e2ee73984128d01
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 16:44:31 2013 -0400
+
+    foo
+
+commit 0365fc789fd20eecd4bf0575a6e46a3441cf6a42
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 16:34:36 2013 -0400
+
+    foo
+
+commit 5d26ceef2f9dc8cd72b322c256b487b4b72d79b0
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 16:29:05 2013 -0400
+
+    foo
+
+commit 473e434aafb1b58f45787bd6cf0ddd36a72f7c2e
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 16:17:35 2013 -0400
+
+    foo
+
+commit 2ff64b0e8fe613710d18bfd1286e960e20b802c7
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Sun Jul 14 16:12:24 2013 -0400
+
+    magi
+
+commit bab8cbbb3e7fa83682392a012bfc6daa16b10888
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Thu Jun 27 12:48:40 2013 -0400
+
+    edited media queries for ipad
+
+commit 3443a6209ea4a5a5eb862dcb2348072ed9d3b545
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Thu Jun 27 01:50:14 2013 -0400
+
+    typos
+
+commit 5918e2d74521a279d62dd9f65c3d4e1d5277f474
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Thu Jun 27 01:29:51 2013 -0400
+
+    index
+
+commit b03b59578b71a86c7c6462be5b1b1a51cc25a2ba
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Thu Jun 27 01:27:17 2013 -0400
+
+    index
+
+commit 581e5342f3b284d3046e3c86033cbd31a11bf128
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Thu Jun 27 01:20:43 2013 -0400
+
+    goo
+
+commit bc8424d87865413c3871191003dfcd4a7a5562b0
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Thu Jun 27 01:10:08 2013 -0400
+
+    fix img path
+
+commit 648942310c60639a0366d95a49061eb5c81cb2d4
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Thu Jun 27 01:04:35 2013 -0400
+
+    delete file
+
+commit aacecdef439c7ac97fdd60adc9f5b375189f7a78
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Thu Jun 27 01:03:00 2013 -0400
+
+    config
+
+commit c7dccc48d7a9504e2a120526873cbbab626df975
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Thu Jun 27 00:58:03 2013 -0400
+
+    config.ru
+
+commit aec7236a518f2e3b93ee6a72adbbf2c40bbd5fc5
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Thu Jun 27 00:53:10 2013 -0400
+
+    config.ru
+
+commit 4774f56c7309310d13a01ff73c7a03aeda14c085
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Thu Jun 27 00:46:14 2013 -0400
+
+    config.ru
+
+commit a03e70a07369d0c3d823e364ddabb5c09dc4b299
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Thu Jun 27 00:43:16 2013 -0400
+
+    config.ru
+
+commit 2f130183028f0989344bd503a3446ff09d8036c5
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Thu Jun 27 00:19:18 2013 -0400
+
+    goodbye fluff
+
+commit 21d2360aed2a4b3fb099152de9bde7331a2d9822
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 19:31:21 2013 -0400
+
+    maybe fixed gif issue
+
+commit ac698331a74c794544d04e9edd40f589126107a1
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 19:22:15 2013 -0400
+
+    mobile viewport better
+
+commit 7d4278c01c16a02062329ebdf7ebb9f18e9f1cd4
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 19:19:38 2013 -0400
+
+    mobile viewport better
+
+commit 14c4a92a22ce32fde6e34ddde5051f7426ddce49
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 19:08:25 2013 -0400
+
+    tried to fix banner
+
+commit 6ba01fc6b8a3326269d4f4b83bd3a73bfb78fddd
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 18:53:16 2013 -0400
+
+    banner width for mobile
+
+commit 88b106801a81cd58cb7d41f61f0e5f1b44ad370e
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 18:47:34 2013 -0400
+
+    hopefully fixed iphone weirdness
+
+commit 09766e24b94d39975e4b0240980eaa0cedc8185f
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 18:41:20 2013 -0400
+
+    removed twitter bootstrap js
+
+commit 0147cbcb105ab8dfa49c03151216ddcd43ce633f
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 18:36:37 2013 -0400
+
+    removed some css
+
+commit 3a2a5aebfb8b35ad6c7ead13512743d710160d14
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 18:30:45 2013 -0400
+
+    we centered now
+
+commit dc1104e9db7651bae12f70d5db9b27282927101c
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 18:05:43 2013 -0400
+
+    hung
+
+commit a3d35ef346ad2dc33f9cacc12913648ddec01802
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 15:51:12 2013 -0400
+
+    trying mobile
+
+commit 1e36129c748fd832703aad16ffe61bb518a981de
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 15:43:25 2013 -0400
+
+    prettify timestamps
+
+commit a5538fc2aad7dd7698e879ac49a3cf61d7965512
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 15:24:53 2013 -0400
+
+    i don't even know naymore
+
+commit bc2e82580a7cee45603fe546ca8aa180edb80657
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 14:46:10 2013 -0400
+
+    banner 100%
+
+commit d6eee8516120508ff4a501b760b947898d724ed3
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 25 14:37:56 2013 -0400
+
+    doin work
+
+commit 85faa27336a6e2515ba65bdbf451e06ab2e1365c
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Fri Jun 21 15:41:09 2013 -0400
+
+    added entry
+
+commit 5a8605c4cd6c1ef5cf581be14591c2ded9f5dbed
+Author: nsbarrcanvas <nick@canv.as>
+Date:   Tue Jun 4 17:50:38 2013 -0400
+
+    we website now
