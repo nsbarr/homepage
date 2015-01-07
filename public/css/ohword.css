@@ -19,6 +19,12 @@ p, li {
 	text-align: center;
 }
 
+li {
+	text-align: left;
+	list-style-position: outside;
+
+}
+
 #content-wrapper {
 	background-color: white;
 	padding: 5% 10% 10% 10%;
