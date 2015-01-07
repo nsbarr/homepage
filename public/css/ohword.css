@@ -19,10 +19,12 @@ p, li {
 	text-align: center;
 }
 
-ul, li {
+li {
 	text-align: left;
+	
+}
+ul {
 	list-style-position: outside;
-
 }
 
 #content-wrapper {
