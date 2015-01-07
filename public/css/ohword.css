@@ -19,7 +19,7 @@ p, li {
 	text-align: center;
 }
 
-li {
+ul, li {
 	text-align: left;
 	list-style-position: outside;
 
