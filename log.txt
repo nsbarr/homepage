@@ -8,7 +8,7 @@ commit b1031da37a78701d57cc23c1670dc7b3b5f79820
 Author: nsbarr <nsbarr@gmail.com>
 Date:   Wed Jan 7 12:47:54 2015 -0500
 
-    gottagofast
+    gottagofastFUCK
 
 commit 3debd42c25b796e9e6276adb5bd3fefa8294b145
 Author: nsbarr <nsbarr@gmail.com>
