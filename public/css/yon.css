@@ -12,12 +12,18 @@
 	margin-top: 40px;
 }
 
+#header ul{
+	background-color: #2f52e0;
+	color: #fff;
+}
+
+
 h1 {
 	font: 33px/44px 'Raleway', sans-serif;
 	text-align: center;
 }
 #header p{
-	font: 21px/28px 'Arial', sans-serif;
+	font: 18px/24px 'Arial', sans-serif;
 	text-align: center;
 }
 
@@ -42,11 +48,11 @@ ul {
 }
 
 li {
-	font: 15px/20px 'Arial', sans-serif;
+	font: 18px/24px 'Arial', sans-serif;
 }
 
 h3 {
-	font: 18px/24px 'Raleway', sans-serif;
+	font: 21px/28px 'Raleway', sans-serif;
 	font-weight: bold;
 	font-weight: bolder;
 	margin-bottom: 4px;
