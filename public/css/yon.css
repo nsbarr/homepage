@@ -25,6 +25,10 @@ body {
 
 }
 
+#header a{
+	color:#fff;
+}
+
 #header li{
 	display: inline;
 	padding-right: 80px
