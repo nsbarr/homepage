@@ -26,7 +26,7 @@ ul {
 }
 
 li {
-	font: 15px/20px 'Verdana', sans-serif;
+	font: 15px/20px 'Arial', sans-serif;
 }
 
 h3 {
@@ -49,4 +49,8 @@ h3 {
 a{
 	text-decoration: none;
 	color: #2f52e0;
+}
+
+h2 {
+	font-family: Arial;
 }
