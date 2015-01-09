@@ -5,6 +5,15 @@
 	margin-top: 40px;
 }
 
+#header{
+	color: #2f52e0;
+}
+
+#header p{
+	color:#fff;
+	font: 15px/20px 'Arial', sans-serif;
+}
+
 #live {
 	color: #bced09;
 }
