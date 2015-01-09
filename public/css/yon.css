@@ -22,5 +22,8 @@ body {
 }
 
 ul {
-	list-style-type: none
+	list-style-type: none;
+}
+p {
+	font: 18px/24px 'Raleway', sans-serif;
 }
