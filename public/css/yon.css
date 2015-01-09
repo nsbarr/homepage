@@ -6,14 +6,19 @@
 }
 
 #header{
-	padding: 10px,10px,10px,10px;
+	width:600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
 }
 
 h1 {
 	font: 33px/44px 'Raleway', sans-serif;
+	text-align: center;
 }
 #header p{
 	font: 21px/28px 'Arial', sans-serif;
+	text-align: center;
 }
 
 #live {
