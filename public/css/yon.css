@@ -22,10 +22,11 @@ body {
 	margin-top: 0px;
 	text-align: center;
 	padding: 0;
+	padding-left: 100px;
 
 }
 
-#header a{
+#header li a{
 	color:#fff;
 }
 
