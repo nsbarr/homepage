@@ -31,4 +31,7 @@ li {
 
 h3 {
 	font: 18px/24px 'Raleway', sans-serif;
+	font-weight: bold;
+	font-weight: bolder;
+	margin-bottom: 4px;
 }
