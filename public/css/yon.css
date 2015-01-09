@@ -1,0 +1,22 @@
+body {
+	width:480px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+}
+
+#live {
+	color: #bced09;
+}
+
+#inprogress {
+	color: #f9cb40;
+}
+
+#backlog {
+	color: #ff715b;
+}
+
+#onice {
+	color: #2f52e0;
+}
