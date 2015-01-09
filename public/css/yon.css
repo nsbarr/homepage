@@ -6,9 +6,12 @@
 }
 
 #header{
-	color: #2f52e0;
+	background-color: #2f52e0; 
 }
 
+h1 {
+	font: 33px/44px 'Raleway', sans-serif;
+}
 #header p{
 	color:#fff;
 	font: 15px/20px 'Arial', sans-serif;
