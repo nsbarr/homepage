@@ -6,15 +6,14 @@
 }
 
 #header{
-	background-color: #2f52e0; 
+	padding: 10px,10px,10px,10px;
 }
 
 h1 {
 	font: 33px/44px 'Raleway', sans-serif;
 }
 #header p{
-	color:#fff;
-	font: 15px/20px 'Arial', sans-serif;
+	font: 21px/28px 'Arial', sans-serif;
 }
 
 #live {
