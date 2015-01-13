@@ -289,7 +289,7 @@ use Rack::Static,
    }
    end
 
-   map "/ruinas" do
+   map "/rvinas" do
    run lambda { |env|
      [
        200, 
