@@ -12,6 +12,13 @@
 
   </body>
   <script type="text/javascript">
+  window.onload=body_load;
+  function body_load(){
+  	var listOfNames = [["Awful Aubrey","Anxious Angie"],["Bitter Billy", "Beautiful Beatrice"],["Crooked Casper", "Charming Chelsea"],["Dirty Dennis","Doubting Dorothy"],["Empty Emmett","Elegant Elinor"],["Faithful Felix","Fancy Farah"],["Guilty Gilbert", "Grieving Gretchen"],["Horrid Horace","Humble Holly"],["Innocent Isador","Insolent Imogen"],["Jawing Jason","Judging Judith"],["Killing Kevin","Kissing Kirsten"],["Laughing Lawrence", "Languid Lana"],["Mighty Mikey","Miserable Mirabel"],["Noble Norman", "Noisy Nora"],["Ordinary Obadiah","Oppressed Odelle"], ["Pure Pete", "Pitiful Pamela"],["Queer Quinn","Quitting Queenie"],["Raging Rajit","Resentful Ramona"],["Stony Steven","Suffering Sylvia"],["Terrible Theodore","Tiresome Tilda"],["Uniform Uriel","Unhappy Ulrika"],["Violent Vincent","Vexed Viv"],["Wild Wynn","Wretched Wilma"]]
+  	var random = listOfNames[Math.floor(Math.random()*listOfNames.length)]
+  	document.getElementById('boyName').innerHTML = random[0]
+  	document.getElementById('girlName').innerHTML = random[1]
+  }
   function changeText(){
   	var listOfNames = [["Awful Aubrey","Anxious Angie"],["Bitter Billy", "Beautiful Beatrice"],["Crooked Casper", "Charming Chelsea"],["Dirty Dennis","Doubting Dorothy"],["Empty Emmett","Elegant Elinor"],["Faithful Felix","Fancy Farah"],["Guilty Gilbert", "Grieving Gretchen"],["Horrid Horace","Humble Holly"],["Innocent Isador","Insolent Imogen"],["Jawing Jason","Judging Judith"],["Killing Kevin","Kissing Kirsten"],["Laughing Lawrence", "Languid Lana"],["Mighty Mikey","Miserable Mirabel"],["Noble Norman", "Noisy Nora"],["Ordinary Obadiah","Oppressed Odelle"], ["Pure Pete", "Pitiful Pamela"],["Queer Quinn","Quitting Queenie"],["Raging Rajit","Resentful Ramona"],["Stony Steven","Suffering Sylvia"],["Terrible Theodore","Tiresome Tilda"],["Uniform Uriel","Unhappy Ulrika"],["Violent Vincent","Vexed Viv"],["Wild Wynn","Wretched Wilma"]]
   	var random = listOfNames[Math.floor(Math.random()*listOfNames.length)]
