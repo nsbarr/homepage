@@ -339,7 +339,7 @@ use Rack::Static,
          'Content-Type'  => 'text/html', 
          'Cache-Control' => 'public, max-age=86400' 
        },
-       File.open('public/pages/gender.html',
+       File.open('public/gender.html',
        File::RDONLY)
      ]
    }
