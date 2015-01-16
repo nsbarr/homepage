@@ -6,7 +6,13 @@
     <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700' rel='stylesheet' type='text/css'>
   </head>
   <body>
-    <div style="float: left; width: 50%; height: 100vh; background-color:pink;"><p style="text-align:center; position: relative; top: 40vh; font:50px/45px 'Open Sans Condensed', sans-serif; text-transform: uppercase;">Anxious Angie</p></div>
-    <div style="float: right; width: 50%; height: 100vh; background-color:blue;"><p style="text-align:center; position: relative; top: 40vh; font:50px/45px 'Open Sans Condensed', sans-serif; text-transform: uppercase;">Awful Aubrey</p></div>
+    <div style="float: left; width: 50%; height: 100vh; background-color:pink;"><p id="girlName" style="text-align:center; position: relative; top: 40vh; font:50px/45px 'Open Sans Condensed', sans-serif; text-transform: uppercase;">Anxious Angie</p></div>
+    <div style="float: right; width: 50%; height: 100vh; background-color:blue;"><p id="boyName" style="text-align:center; position: relative; top: 40vh; font:50px/45px 'Open Sans Condensed', sans-serif; text-transform: uppercase;">Awful Aubrey</p></div>
+    <input type='button' onclick='changeText()' value='Change Text'/>
   </body>
+  <script type="text/javascript">
+  function changeText(){
+  	document.getElementById('boyName').innerHTML = 'foo'
+  	document.getElementById('girlName').innerHTML = 'foo'
+  }
  </html>
