@@ -41,6 +41,19 @@ use Rack::Static,
     ]
   }
   end
+
+  map "/l8r" do
+    run lambda { |env|
+    [
+      200, 
+      {
+        'Content-Type'  => 'text/html', 
+        'Cache-Control' => 'public, max-age=86400' 
+      },
+      File.open('public/pages/hello_l8r.html', File::RDONLY)
+    ]
+  }
+  end
   
   map "/responsive" do
     run lambda { |env|
