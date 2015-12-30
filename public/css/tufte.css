@@ -255,7 +255,13 @@ a:link::-moz-selection { text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.0
 /* Sidenotes, margin notes, figures, captions */
 img { max-width: 100%; }
 
-.video{ max-width: 100%;}
+.video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
 
 .sidenote, .marginnote { float: right;
                          clear: right;
