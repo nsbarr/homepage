@@ -54,10 +54,10 @@ h1 { font-weight: 400;
      font-size: 3.0rem;
      line-height: 1; }
 
-h2 { font-style: italic;
-     font-weight: 400;
+h2 { font-style: normal;
+     font-weight: 600;
      margin-top: 2.1rem;
-     margin-bottom: 0;
+     margin-bottom: 2.1rem;
      font-size: 2.2rem;
      line-height: 1; }
 
@@ -165,7 +165,7 @@ table.booktabs { width: auto;
 .booktabs tbody tr td.r { text-align: right !important; }
 
 article { position: relative;
-          padding: 5rem 0rem; }
+          padding: 1rem 0rem; }
 
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
