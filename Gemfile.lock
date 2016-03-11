@@ -1,11 +1,32 @@
+GIT
+  remote: https://github.com/stripe/stripe-ruby
+  revision: 7849e844cde91ff9f77a17a67a343b3194ba682e
+  specs:
+    stripe (1.36.1)
+      rest-client (~> 1.4)
+
 GEM
   remote: https://rubygems.org/
   remote: http://rubygems.org/
   specs:
+    domain_name (0.5.20160309)
+      unf (>= 0.0.5, < 1.0.0)
+    http-cookie (1.0.2)
+      domain_name (~> 0.5)
+    mime-types (2.99.1)
+    netrc (0.11.0)
     rack (1.5.2)
+    rest-client (1.8.0)
+      http-cookie (>= 1.0.2, < 2.0)
+      mime-types (>= 1.16, < 3.0)
+      netrc (~> 0.7)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.7.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   rack
+  stripe!
