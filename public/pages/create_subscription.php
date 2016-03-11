@@ -20,7 +20,7 @@ try
 }
 catch(Exception $e)
 {
-  header('Location:oops.html');
+  header('Location:proceed.html');
   error_log("unable to sign up customer:" . $_POST['stripeEmail'].
     ", error:" . $e->getMessage());
 }
