@@ -366,7 +366,7 @@ use Rack::Static,
          'Content-Type'  => 'text/html', 
          'Cache-Control' => 'public, max-age=86400' 
        },
-       File.open('public/employee.html',
+       File.open('public/pages/employee.html',
        File::RDONLY)
      ]
    }
