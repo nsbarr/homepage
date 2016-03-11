@@ -3,5 +3,6 @@ source "https://rubygems.org"
 
 source :rubygems
 gem 'rack'
+gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 
 # gem "rails"
