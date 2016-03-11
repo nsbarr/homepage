@@ -15,7 +15,7 @@ try
     'plan' => 'weekly_box'
   ));
 
-  header('Location: thankyou.html');
+  header('Location: today.html');
   exit;
 }
 catch(Exception $e)
