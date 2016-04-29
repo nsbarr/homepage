@@ -260,7 +260,7 @@ use Rack::Static,
    }
    end
 
-   map "/masterpass_privacy" do
+   map "/privacy" do
    run lambda { |env|
      [
        200, 
