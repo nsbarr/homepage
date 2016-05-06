@@ -87,9 +87,8 @@ use Rack::Static,
        200, 
        {
          'Content-Type'  => 'text/plain', 
-         'Cache-Control' => 'public, max-age=0' 
        },
-       File.open('public/alice.txt', File::RDONLY)
+       File.open('public/pages/alice.txt', File::RDONLY)
      ]
    }
    end
