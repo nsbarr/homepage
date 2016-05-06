@@ -88,7 +88,7 @@ use Rack::Static,
        {
          'Content-Type'  => 'text/plain', 
        },
-       File.open('public/pages/alice.txt', File::RDONLY)
+       File.open('public/alice.txt', File::RDONLY)
      ]
    }
    end
