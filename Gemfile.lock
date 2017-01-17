@@ -1,25 +1,27 @@
 GIT
   remote: https://github.com/stripe/stripe-ruby
-  revision: 7849e844cde91ff9f77a17a67a343b3194ba682e
+  revision: b291bce2404152eabc9c38c0f9d38edfbfcee78f
   specs:
-    stripe (1.36.1)
-      rest-client (~> 1.4)
+    stripe (1.57.1)
+      rest-client (>= 1.4, < 4.0)
 
 GEM
   remote: https://rubygems.org/
   remote: http://rubygems.org/
   specs:
-    domain_name (0.5.20160309)
+    domain_name (0.5.20161129)
       unf (>= 0.0.5, < 1.0.0)
-    http-cookie (1.0.2)
+    http-cookie (1.0.3)
       domain_name (~> 0.5)
-    mime-types (2.99.1)
+    mime-types (3.1)
+      mime-types-data (~> 3.2015)
+    mime-types-data (3.2016.0521)
     netrc (0.11.0)
-    rack (1.5.2)
-    rest-client (1.8.0)
+    rack (2.0.1)
+    rest-client (2.0.0)
       http-cookie (>= 1.0.2, < 2.0)
-      mime-types (>= 1.16, < 3.0)
-      netrc (~> 0.7)
+      mime-types (>= 1.16, < 4.0)
+      netrc (~> 0.8)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.2)
@@ -30,3 +32,9 @@ PLATFORMS
 DEPENDENCIES
   rack
   stripe!
+
+RUBY VERSION
+   ruby 2.3.1p112
+
+BUNDLED WITH
+   1.13.7
