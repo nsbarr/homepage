@@ -370,7 +370,7 @@ use Rack::Static,
    }
    end
 
-    map "/brown" do
+   map "/brown" do
    run lambda { |env|
      [
        200, 
