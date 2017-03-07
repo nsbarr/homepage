@@ -396,6 +396,7 @@ use Rack::Static,
        File::RDONLY)
      ]
    }
+ end
 
    map "/poems" do
    run lambda { |env|
