@@ -2,7 +2,6 @@ use Rack::Static,
   :urls => ["/images", "/js", "/css"],
   :root => "public"
 
-
   map "/" do
     run lambda { |env|
     [
@@ -420,8 +419,12 @@ use Rack::Static,
          'Content-Type'  => 'text/html', 
          'Cache-Control' => 'public, max-age=86400' 
        },
-       File.open('public/goya/index.html',
+       File.open('public/goya/',
        File::RDONLY)
      ]
    }
+   end
+
+   map "/goyatwo" do
+   run Rack::File.new("/goya/assets")
    end
