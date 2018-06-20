@@ -1,5 +1,5 @@
 use Rack::Static, 
-  :urls => ["/images", "/js", "/css"],
+  :urls => ["/images", "/js", "/css", "/goya/assets"],
   :root => "public"
 
   map "/" do
@@ -419,7 +419,7 @@ use Rack::Static,
          'Content-Type'  => 'text/html', 
          'Cache-Control' => 'public, max-age=86400' 
        },
-       File.open('public/goya/',
+       File.open('public/goya/pages/index.html',
        File::RDONLY)
      ]
    }
