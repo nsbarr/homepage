@@ -3,7 +3,7 @@
    "encoding": "US-ASCII",
    "clean_urls": true,
    "routes": {
-    "/": "index.html",
+    "/": "index.html"
   }
 
 }
