@@ -5,7 +5,7 @@
    "routes": {
     "/": "index.html",
     "/assets/*": "goya/assets/",
-    "goya/**": "index.html"
+    "/goya/**": "index.html"
   }
 
 }
