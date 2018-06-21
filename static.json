@@ -4,7 +4,8 @@
    "clean_urls": true,
    "routes": {
     "/": "index.html",
-    "/goya": "goya/index.html/"
+    "/goya": "goya/index.html/",
+    "**/assets/": "goya/assets/"
   }
 
 }
